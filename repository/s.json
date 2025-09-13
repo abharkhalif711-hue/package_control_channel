@@ -6120,6 +6120,18 @@
 					"tags": "st3-"
 				}
 			]
+		},
+		{
+			"name": "supercloud - color scheme",
+			"details": "https://github.com/abharkhalif711-hue/supercloud-dark-theme",
+			"description": "a most softy dark theme",
+			"labels": ["color scheme", "UI", "theme"],
+			"releases": [
+             {
+				 "sublime_text": "*",
+					"tags": true
+			 }
+		   ]
 		}
 	]
 }
